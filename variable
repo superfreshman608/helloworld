@@ -1,2 +1,2 @@
-num_apples = 20
-num_oranges = 15
+print(num_apples = 20)
+print (num_oranges = 15)
